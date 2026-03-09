@@ -21,5 +21,4 @@ if st.button("Predict"):
     st.success("Prediction Complete")
     st.write("Predicted Sales:", prediction[0])
 
-    import os
-print(os.getcwd())
+    

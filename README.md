@@ -16,7 +16,7 @@ This app uses a **Linear Regression model** to learn the relationship between ad
   - **Radio advertising spend**
   - **Newspaper advertising spend**
 - Target variable: **Sales**  
-The Linear Regression model learns how these features influence sales. :contentReference[oaicite:1]{index=1}
+The Linear Regression model learns how these features influence sales. 
 
 ---
 

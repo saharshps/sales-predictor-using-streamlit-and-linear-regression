@@ -8,7 +8,7 @@ from sklearn.linear_model import LinearRegression
 from sklearn.model_selection import cross_val_score
 import joblib
 
-df = pd.read_csv(r"C:\Users\sahar\OneDrive\Documents\Advertising.csv", index_col=0)
+df = pd.read_csv("Advertising.csv", index_col=0)
 
 X = df.drop('Sales', axis=1)
 y = df['Sales']
